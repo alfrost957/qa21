@@ -1,1 +1,1 @@
-document .body.inerHTML - '<h1>helloy world<h1>'
+document .body.inerHTML - '<h1>helloy world!<h1>'
