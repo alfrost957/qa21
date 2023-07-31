@@ -1,0 +1,1 @@
+document .body.inerHTML - '<h1>helloy world<h1>'
