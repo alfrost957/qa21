@@ -1,1 +1,16 @@
-document .body.inerHTML - '<h1>helloy world!<h1>'
+<!DOCTYPE HTML>
+<html>
+
+<body>
+
+  <p>проси</p>
+
+  <script>
+    alert( 'Привет, мир!' );
+  </script>
+
+  <p>господи</p>
+
+</body>
+
+</html>
